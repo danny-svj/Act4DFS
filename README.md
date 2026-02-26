@@ -4,7 +4,7 @@ Aplicación web para la gestión de productos con autenticación JWT, desarrolla
 
 ## Requisitos previos
 
-- Node.js 18+
+- Node.js
 - MongoDB (local o Atlas)
 - npm
 
